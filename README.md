@@ -1,5 +1,5 @@
 # sicp-python
-I read chapter 1 and some part of chapter 2, basically all were about procedures and data. Trying to implement some of these codes in python but at this time, writing a test along side it. A coverage test worked well.
+I read chapter 1 and some part of chapter 2, basically all were about procedures and data. Trying to implement some of these codes in python but at this time, writing a test along side it.
 
 ## Unit testing
 To run the test, use the commands,
