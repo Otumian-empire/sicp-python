@@ -8,10 +8,10 @@ To run the test, use the commands,
 or copy and past the above line into a file, `run.sh` file and do `sudo chmod +x run.sh` and execute, `./run.sh`
 
 ## Alternative, using vscode
-* Configure the testing framework, choose unittest.
-* Choose the `test` as the directory containing the test
-* Since all the test methods starts with `test`, `*test* Python Files conating the word 'test'`
+By testing Python in [Visual Studio Code](https://code.visualstudio.com/docs/python/testing)
 
 ## source
 
-Code for was taken from [scheme-sicp-mit](https://github.com/Otumian-empire/scheme-sicp-mit)
+* Code for was taken from [scheme-sicp-mit](https://github.com/Otumian-empire/scheme-sicp-mit)
+* More about unittest from [python.org](https://docs.python.org/3/library/unittest.html#basic-example) and [stackoverflow.com](https://stackoverflow.com/questions/6854658/explain-the-setup-and-teardown-python-methods-used-in-test-cases)
+* [Visual Studio Code](https://code.visualstudio.com/docs/python/testing)
